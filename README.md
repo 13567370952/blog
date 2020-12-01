@@ -1,1 +1,1 @@
-# <center> Something from my job or  on Internet from other </center>
+#一些工作或网上学习随笔
