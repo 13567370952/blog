@@ -238,5 +238,5 @@ abstract class Cat {
 - Collections则是集合类的一个工具类/帮助类，其中提供了一系列静态方法，用于对集合中元素进行排序、搜索以及线程安全等各种操作。
 
 ## 20. List、Set、Map 之间的区别是什么？
-![区别](images/区别.webp)
+![区别](images/区别.jpg)
 
