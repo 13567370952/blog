@@ -228,3 +228,7 @@ abstract class Cat {
 - Files.size()：查看文件个数。
 - Files.read()：读取文件。
 - Files.write()：写入文件。
+
+## 18. java 容器都有哪些？
+常用容器的图录：
+![容器图录](images/容器图录.webp)
