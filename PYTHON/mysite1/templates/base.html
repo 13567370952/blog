@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  {% block mytitle %}
+    <title>主页</title>
+  {% endblock %}
+</head>
+<body>
+<a href="/musci_index">音乐</a>
+<a href="/sport_index">体育</a>
+
+<br>
+{% block info %}
+这是主页
+{% endblock%}
+<br>
+<img src="/static/img/1.png">
+{% load static %}
+<img src="{% static 'img/1.png'%}">
+</body>
+</html>
